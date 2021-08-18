@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Full+Stack+Developer;Management+Information+Systems+Student;Python%20|%20Java%20|%20C%20Sharp;&center=true&width=500&height=50"></a>
 </p>
-<hr/>
 
  
   
