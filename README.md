@@ -1,7 +1,7 @@
  
  <h1 align="center">Hi , I'm Samet Akca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  <a href="https://github.com/smtdeveloper"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/smtdeveloper?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a> </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Full+Stack+Developer;Management+Information+Systems+Student;Python%20|%20Java%20|%20C%20Sharp;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/smtdeveloper/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Full+Stack+Developer;Management+Information+Systems+Student;Python%20|%20Java%20|%20C%20Sharp;&center=true&width=500&height=50"></a>
 </p>
 
  
