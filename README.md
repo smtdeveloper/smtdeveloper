@@ -1,7 +1,9 @@
-# Samet Akca (SMTcoder) :smiley:
-
- <a href="https://sametakca.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
- <div>
+ 
+ <h1 align="center">Hi , I'm Samet Akca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;Ben+Namı+diğer+SMTcoder;Full+Stack+Developer;Management+Information+Systems+Student;Python%20|%20Java%20|%20C%20Sharp;&center=true&width=500&height=50"></a>
+</p>
+<hr/>
  
 <a href="https://github.com/smtdeveloper">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
