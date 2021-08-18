@@ -72,10 +72,6 @@ static void SMTcoder()
    ### Nero ve Starbucks için müşteri kaydetme ve Starbucks için mernis ile doğrulama projesi
 C# - Angular kampı
 
-  <a href="https://github.com/GameProje">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=GameProje&theme=dark&include_all_commits=true&count_private=true" />
-</a>
-
  <a href="https://github.com/InterfaceAbstractDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=InterfaceAbstractDemo&theme=dark&include_all_commits=true&count_private=true" />
 </a>
