@@ -66,14 +66,12 @@ static void SMTcoder()
           Console.Write("Welcome to my world");
     }
 ```
-  <div>
-<a href="https://github.com/smtdeveloper">
-<img height="250em" src="https://user-images.githubusercontent.com/74311713/129817662-ebf563d5-fb64-4d33-9913-3839677c6c7a.PNG"/> 
- <img height="280em" src="https://user-images.githubusercontent.com/74311713/129817703-3a5d261f-fd4b-4ee3-adbb-41bda0e8b1ff.PNG"/>
-<img height="250em" src="https://user-images.githubusercontent.com/74311713/129817726-e474cb92-cb77-4e14-94bc-a3489bd1fecc.PNG"/>
- </div>
 
- <br> 
+
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
+<!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
+<br/>
 
   
    
