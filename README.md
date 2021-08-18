@@ -30,8 +30,8 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" width="40" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/12/postman-logo.png"></code>
+<code><img height="40" width="40" src="https://image.flaticon.com/icons/png/512/337/337953.png"></code>
 <br/>
 #
 <code><img height="40" width="40" src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Visual_Studio_2013_Logo.svg/revision/latest/scale-to-width-down/250?cb=20191221122625"></code>
