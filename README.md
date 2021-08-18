@@ -11,7 +11,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
  </div>
 
- <div style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://icongr.am/devicon/angularjs-original.svg?size=95&color=currentColor">
    <img align="center" height="50" width="50" src="https://icongr.am/devicon/csharp-original.svg?size=95&color=543131">
    <img align="center" height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=95&color=543131">
