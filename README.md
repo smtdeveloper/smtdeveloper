@@ -6,9 +6,9 @@
 <hr/>
  
 <a href="https://github.com/smtdeveloper">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
  <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
  </div>
 
  <div style="display: inline_block"><br>
@@ -63,11 +63,11 @@ static void SMTcoder()
 ### ReCap Project : Araba Kiralama Sistemi Rent A Car
  
  <a href="https://github.com/smtdeveloper/ReCarProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=dark&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
   <a href="https://github.com/smtdeveloper/ReCar-FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=dark&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
 
@@ -75,7 +75,7 @@ static void SMTcoder()
 C# - Angular kampı
 
  <a href="https://github.com/smtdeveloper/InterfaceAbstractDemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=InterfaceAbstractDemo&theme=dark&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=InterfaceAbstractDemo&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
 
