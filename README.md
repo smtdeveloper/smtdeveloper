@@ -40,7 +40,7 @@
 ```C#
 static void SMTcoder()
     {
-          Console.Write("Hello World!");
+          Console.Write("Welcome to my world");
     }
 ```
   <div>
