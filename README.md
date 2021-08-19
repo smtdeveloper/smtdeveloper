@@ -1,5 +1,5 @@
  
- <h1 align="center">Hi , I'm Samet Akca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  <a href="https://github.com/smtdeveloper"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/smtdeveloper?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a> </h1>
+ <h1 align="center">Hi , I'm Samet Akca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
 <p align="center">
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Full+Stack+Developer;Management+Information+Systems+Student;Python%20|%20Java%20|%20C%20Sharp;&center=true&width=500&height=50"></a>
 </p>
@@ -65,7 +65,7 @@ static void SMTcoder()
     }
 ```
 
-**My Contributions This Year:**  
+**My Contributions This Year:**    
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch-->
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/JayantGoel001/JayantGoel001/blob/main/github-contribution-grid-snake.svg)
 <!-- Don't Run Contribution Graph(Generate Snake) Action on your default Branch -->
@@ -74,7 +74,7 @@ static void SMTcoder()
   
    
 
-
+<a href="https://github.com/smtdeveloper"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/smtdeveloper?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 
 
 ### ReCap Project : Araba Kiralama Sistemi Rent A Car
