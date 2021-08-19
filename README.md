@@ -4,12 +4,12 @@
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Full+Stack+Developer;Management+Information+Systems+Student;Python%20|%20Java%20|%20C%20Sharp;&center=true&width=500&height=50"></a>
 </p>
 
- 
+
   
 <br>
 <a href="https://github.com/smtdeveloper">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
- <img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+ <img height="110em" src="https://user-images.githubusercontent.com/74311713/130070290-fccb3f6f-3a99-4b18-9da5-347cbc64246a.PNG"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
  </div>
 
