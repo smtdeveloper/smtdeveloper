@@ -8,9 +8,9 @@
   
 <br>
 <a href="https://github.com/smtdeveloper">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
- <img height="110em" src="https://user-images.githubusercontent.com/74311713/130070290-fccb3f6f-3a99-4b18-9da5-347cbc64246a.PNG"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
+ <img height="140em" src="https://user-images.githubusercontent.com/74311713/130070290-fccb3f6f-3a99-4b18-9da5-347cbc64246a.PNG"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
  </div>
 
  <p align="center">
