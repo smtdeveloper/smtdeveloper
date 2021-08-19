@@ -4,13 +4,16 @@
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Full+Stack+Developer;Management+Information+Systems+Student;Python%20|%20Java%20|%20C%20Sharp;&center=true&width=500&height=50"></a>
 </p>
 
+
   
 <br>
-<a href="https://github.com/smtdeveloper">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=react&include_all_commits=true&count_private=false"/> 
- <img height="140em" src="https://user-images.githubusercontent.com/74311713/130071404-02997092-858f-489b-8b85-ee93daf9858d.PNG"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
+<div align="center" >
+<a  href="https://github.com/smtdeveloper">
+<img  height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
+ <img  height="250em"  src="https://user-images.githubusercontent.com/74311713/130072915-0fe0dad5-b9c4-46e2-b611-65a2c52c76de.png"/>
+
  </div>
+
 
  <p align="center">
   <img src="https://gpvc.arturio.dev/smtdeveloper" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
