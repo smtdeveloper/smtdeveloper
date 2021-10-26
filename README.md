@@ -28,6 +28,23 @@
  <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/74311713/130068740-4fd81132-582f-487f-ade9-fa7d68c5017d.PNG"></a>
 <br/>
 
+### ReCap Project : Araba Kiralama Sistemi Rent A Car
+ 
+ <a href="https://github.com/smtdeveloper/ReCarProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
+</a>
+
+  <a href="https://github.com/smtdeveloper/ReCar-FrontEnd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
+</a>
+
+
+   ### Nero ve Starbucks için müşteri kaydetme ve Starbucks için mernis ile doğrulama projesi
+C# - Angular kampı
+
+ <a href="https://github.com/smtdeveloper/InterfaceAbstractDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=InterfaceAbstractDemo&theme=react&include_all_commits=true&count_private=true" />
+</a>
 
 
 
@@ -87,23 +104,6 @@ static void SMTcoder()
   
    
 
-### ReCap Project : Araba Kiralama Sistemi Rent A Car
- 
- <a href="https://github.com/smtdeveloper/ReCarProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
-</a>
-
-  <a href="https://github.com/smtdeveloper/ReCar-FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
-</a>
-
-
-   ### Nero ve Starbucks için müşteri kaydetme ve Starbucks için mernis ile doğrulama projesi
-C# - Angular kampı
-
- <a href="https://github.com/smtdeveloper/InterfaceAbstractDemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=InterfaceAbstractDemo&theme=react&include_all_commits=true&count_private=true" />
-</a>
 
 
  
