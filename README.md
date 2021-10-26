@@ -24,7 +24,7 @@
 </p>
  
  
- ### ReCap Project : Araba Kiralama Sistemi Rent A Car
+ ### ReCap Project : Araba Kiralama Sistemi - Engin Demirog
  
  <a href="https://github.com/smtdeveloper/ReCarProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
