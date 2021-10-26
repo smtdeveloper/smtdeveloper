@@ -33,6 +33,12 @@
   <a href="https://github.com/smtdeveloper/ReCar-FrontEnd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
 </a>
+ 
+  ### Asp.Net Core 5.0 Blog Proje Kampi - Murat Yucedag
+ 
+ <a href="https://github.com/smtdeveloper/BlogProjeKampi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=BlogProjeKampi&theme=react&include_all_commits=true&count_private=true" />
+</a>
 
 
    ### Nero ve Starbucks için müşteri kaydetme ve Starbucks için mernis ile doğrulama projesi
