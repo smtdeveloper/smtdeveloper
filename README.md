@@ -43,6 +43,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
 </a>
  
+  ### Yazılım Geliştirici Yetiştirme Kampı (JavaScript) - Engin Demirog
+ 
+ <a href="https://github.com/smtdeveloper/JScamp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=JScamp&theme=react&include_all_commits=true&count_private=true" />
+</a>
+ 
   ### Asp.Net Core 5.0 Blog Proje Kampi - Murat Yucedag
  
  <a href="https://github.com/smtdeveloper/BlogProjeKampi">
