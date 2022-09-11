@@ -93,13 +93,6 @@ C# - Angular kampı
 <br>
 
  
-```C#
-static void SMTcoder()
-    {
-          Console.Write("Welcome to my world");
-    }
-```
-
 
   
    
