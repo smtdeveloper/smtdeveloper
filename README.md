@@ -34,7 +34,7 @@
 </p>
  
  
-  ### Senior Level Yazılım Geliştirme Kampı (Rental car projesi) - Engin Demirog(2022)
+  ### Senior Level Yazılım Geliştirme Kampı (Rental car projesi) - Engin Demirog(Ağustos 2022 - Halen Sürüyor)
  
  <a href="https://github.com/smtdeveloper/nArchitecture">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=nArchitecture&theme=react&include_all_commits=true&count_private=true" />
@@ -56,7 +56,7 @@
 
 
  
- ### ReCap Project : Araba Kiralama Sistemi - Engin Demirog (2021)
+ ### ReCap Project : Araba Kiralama Sistemi - Engin Demirog (Ocak 2021 - Nisan 2021)
  
  <a href="https://github.com/smtdeveloper/ReCarProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
