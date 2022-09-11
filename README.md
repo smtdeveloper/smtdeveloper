@@ -9,15 +9,10 @@
   
    
  
- </div>
+ 
   
 <br>
-<div align="center" >
-<a  href="https://github.com/smtdeveloper">
-<img  height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
- <img  height="250em"  src="https://user-images.githubusercontent.com/74311713/130072915-0fe0dad5-b9c4-46e2-b611-65a2c52c76de.png"/>
 
- </div>
 
  #
 
@@ -72,17 +67,6 @@ C# - Angular kampı
 </a>
 
 
-  
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=smtdeveloper&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/smtdeveloper)
- 
- <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://user-images.githubusercontent.com/74311713/130068740-4fd81132-582f-487f-ade9-fa7d68c5017d.PNG"></a>
-<br/>
-
-
-
-
- 
- ---
 <br>
 
  
