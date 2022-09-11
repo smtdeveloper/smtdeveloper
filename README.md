@@ -32,17 +32,17 @@
   <img src="https://img.shields.io/github/stars/smtdeveloper?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
  
-  ### Senior Level Yazılım Geliştirme Kampı (Rental car projesi) - Engin Demirog
+  ### Senior Yazılım Geliştirici Yetiştirme Kampı (.NET) - Engin Demirog
  
  <a href="https://github.com/smtdeveloper/nArchitecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=nArchitecture&theme=react&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
   <a href="https://github.com/smtdeveloper/Kodlama.io.Devs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=Kodlama.io.Devs&theme=react&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
 </a>
  
- ### ReCap Project : Araba Kiralama Sistemi - Engin Demirog
+ ### Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR) - Engin Demirog
  
  <a href="https://github.com/smtdeveloper/ReCarProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
