@@ -35,11 +35,11 @@
   ### Senior Level Yazılım Geliştirme Kampı (Rental car projesi) - Engin Demirog
  
  <a href="https://github.com/smtdeveloper/nArchitecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=nArchitecture&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
   <a href="https://github.com/smtdeveloper/Kodlama.io.Devs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=Kodlama.io.Devs&theme=react&include_all_commits=true&count_private=true" />
 </a>
  
  ### ReCap Project : Araba Kiralama Sistemi - Engin Demirog
