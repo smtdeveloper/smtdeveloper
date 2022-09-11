@@ -32,6 +32,15 @@
   <img src="https://img.shields.io/github/stars/smtdeveloper?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
  
+  ### Senior Level Yazılım Geliştirme Kampı (Rental car projesi) - Engin Demirog
+ 
+ <a href="https://github.com/smtdeveloper/nArchitecture">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
+</a>
+
+  <a href="https://github.com/smtdeveloper/Kodlama.io.Devs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
+</a>
  
  ### ReCap Project : Araba Kiralama Sistemi - Engin Demirog
  
@@ -43,17 +52,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=react&include_all_commits=true&count_private=true" />
 </a>
  
+ 
+   ### Asp.Net Core 5.0 Blog Proje Kampi - Murat Yucedag
+ 
+ <a href="https://github.com/smtdeveloper/BlogProjeKampi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=BlogProjeKampi&theme=react&include_all_commits=true&count_private=true" />
+</a>
+ 
   ### Yazılım Geliştirici Yetiştirme Kampı (JavaScript) - Engin Demirog
  
  <a href="https://github.com/smtdeveloper/JScamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=JScamp&theme=react&include_all_commits=true&count_private=true" />
 </a>
  
-  ### Asp.Net Core 5.0 Blog Proje Kampi - Murat Yucedag
- 
- <a href="https://github.com/smtdeveloper/BlogProjeKampi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=BlogProjeKampi&theme=react&include_all_commits=true&count_private=true" />
-</a>
+
 
 
    ### Nero ve Starbucks için müşteri kaydetme ve Starbucks için mernis ile doğrulama projesi
