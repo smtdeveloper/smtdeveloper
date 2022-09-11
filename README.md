@@ -46,17 +46,15 @@
  
   ### Orta Seviye .Net Core BookStore ve proje ödevi MovieStore - Patika.dev 
  
- <a href="https://github.com/smtdeveloper/nArchitecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
+ <a href="https://github.com/smtdeveloper/BookStore-.net-">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=BookStore-.net-&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
- <a href="https://github.com/smtdeveloper/nArchitecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
+ <a href="https://github.com/smtdeveloper/MovieStoreSln">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=MovieStoreSln&theme=react&include_all_commits=true&count_private=true" />
 </a>
 
- <a href="https://github.com/smtdeveloper/nArchitecture">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=react&include_all_commits=true&count_private=true" />
-</a>
+
  
  ### ReCap Project : Araba Kiralama Sistemi - Engin Demirog
  
