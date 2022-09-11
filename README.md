@@ -15,9 +15,8 @@
   <a href="https://www.linkedin.com/in/samet-akca-2a4bbb1a8/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
- 
- <a href="https://www.linkedin.com/in/samet-akca-2a4bbb1a8/">
-    <img src="[https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg](https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg)" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+   <a href="https://www.instagram.com/smtcoder/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
   </a>
  
 </p>
