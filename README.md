@@ -4,8 +4,10 @@
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
 </p>
 
- 
+
+   	
   
+   
  
  </div>
   
