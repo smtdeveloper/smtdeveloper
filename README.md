@@ -19,10 +19,6 @@
   </a>
  
 </p>
- #
-
-
- 
  
   ### Senior Level Yazılım Geliştirme Kampı (Rental car projesi) - Engin Demirog(Ağustos 2022 - Halen Sürüyor)
  
