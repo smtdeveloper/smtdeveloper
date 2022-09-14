@@ -7,7 +7,7 @@
    	
 <h2 align="center">You can reach me at </h2>
 <p align="Left">
-bensametakca@gmail.com
+Mail : bensametakca@gmail.com
 </p>
 <p align="center">
 
