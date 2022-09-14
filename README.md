@@ -4,7 +4,14 @@
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
 </p>
 
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+<hr>
    	
 <h2 align="center">You can reach me at </h2>
 
