@@ -6,7 +6,9 @@
 <hr>
    	
 <h2 align="center">You can reach me at </h2>
-
+<p align="Left">
+bensametakca@gmail.com
+</p>
 <p align="center">
 
   
@@ -19,7 +21,7 @@
   </a>
  
 </p>
- 
+ <hr>
   ### Senior Level Yazılım Geliştirme Kampı (Rental car projesi) - Engin Demirog(Ağustos 2022 - Halen Sürüyor)
  
  <a href="https://github.com/smtdeveloper/nArchitecture">
