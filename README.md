@@ -4,17 +4,6 @@
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
 </p>
 
-### - Languages and Tools...
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
- 
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
- 
- 
-</p>
 
 <hr>
    	
