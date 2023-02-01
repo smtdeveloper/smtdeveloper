@@ -4,6 +4,8 @@
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
 </p>
 
+![Adsız tasarım (2)](https://user-images.githubusercontent.com/74311713/216057508-04ca55ba-6f88-4bd3-804d-4e4e83d76035.png)
+
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/smtdeveloper" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
