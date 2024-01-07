@@ -1,7 +1,7 @@
  
  <h1 align="center">Hi , I'm Samet Akca  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
 <p align="center">
-  <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;Management+Information+Systems+Student;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;I+Am+Backend+Developer+:);&center=true&width=500&height=50"></a>
 </p>
 
 ![Adsız tasarım (2)](https://user-images.githubusercontent.com/74311713/216057508-04ca55ba-6f88-4bd3-804d-4e4e83d76035.png)
