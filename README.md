@@ -1,5 +1,4 @@
- 
- <h1 align="center">Hi , I'm Samet AKCA  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
+  <h1 align="center">Hi , I'm Samet AKCA  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">   </h1>
 <p align="center">
   <a href="https://github.com/smtdeveloper"><img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;I+Am+Backend+Developer+:);&center=true&width=500&height=50"></a>
 </p>
@@ -16,8 +15,6 @@
 <p align="center"
 
 <hr>
-
-
 
 ## About Me
 Hi, I'm Samet Akca. I graduated from the Computer Programming department at Adnan Menderes University. Through the DGS (Vertical Transfer Exam), I transitioned to the Management Information Systems department at Anadolu University's Open Education Faculty. During my university years, I had the opportunity to develop myself by participating in various projects. I gained experience in the private sector as a Full Stack and Backend Developer, and in this process, I acquired in-depth expertise in C#, .NET, MVC, REST and Web Development. Software development initially caught my interest as a hobby, but over time, it became a great passion and my profession. I work with great enthusiasm and continually strive to improve myself by learning new technologies.
