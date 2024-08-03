@@ -16,7 +16,7 @@
 ## Contact Me
 
 <p align="center">
-  <a href="mailto:samet@example.com"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/sametakca"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/smtdeveloper"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+
+  <a href="https://www.linkedin.com/in/bensametakca"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+ 
 </p>
