@@ -24,10 +24,6 @@ Hi, I'm Samet Akca. I graduated from the Computer Programming department at Adna
 
 
 
-## Featured Projects
-- [Project 1](https://github.com/smtdeveloper/project1): Brief description of Project 1.
-- [Project 2](https://github.com/smtdeveloper/project2): Brief description of Project 2.
-
 ## Technologies and Tools
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
