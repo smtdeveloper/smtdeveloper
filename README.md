@@ -14,7 +14,9 @@
 <hr>
 
 ## About Me
-I'm a passionate Backend Developer with experience in building robust web applications using modern technologies. I enjoy working on challenging projects and constantly improving my skills.
+Hi, I'm Samet Akca. I graduated from the Computer Programming department at Adnan Menderes University. Through the DGS (Vertical Transfer Exam), I transitioned to the Management Information Systems department at Anadolu University's Open Education Faculty. During my university years, I had the opportunity to develop myself by participating in various projects. I gained experience in the private sector as a Full Stack and Backend Developer, and in this process, I acquired in-depth expertise in C#, .NET, MVC, REST and Web Development. Software development initially caught my interest as a hobby, but over time, it became a great passion and my profession. I work with great enthusiasm and continually strive to improve myself by learning new technologies.
+
+
 
 ## Featured Projects
 - [Project 1](https://github.com/smtdeveloper/project1): Brief description of Project 1.
