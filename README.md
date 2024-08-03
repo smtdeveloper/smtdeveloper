@@ -23,6 +23,9 @@ Hi, I'm Samet Akca. I graduated from the Computer Programming department at Adna
 - [Project 2](https://github.com/smtdeveloper/project2): Brief description of Project 2.
 
 ## Technologies and Tools
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=.net)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -30,6 +33,7 @@ Hi, I'm Samet Akca. I graduated from the Computer Programming department at Adna
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 
 ## GitHub Stats
 ![Samet's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=radical)
