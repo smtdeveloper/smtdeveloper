@@ -59,6 +59,7 @@ Hi, I'm Samet Akca. I graduated from the Computer Programming department at Adna
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-black?style=flat-square&logo=microsoft-sql-server)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Oracle PL/SQL](https://img.shields.io/badge/-Oracle%20PL%2FSQL-black?style=flat-square&logo=oracle)
+![Docker Stars](https://img.shields.io/docker/stars/:user/:repo)
 
 
 
