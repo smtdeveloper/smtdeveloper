@@ -11,7 +11,7 @@
 
 
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -
-    <img alt = "profile views" src="https://komarev.com/ghpvc/?username=smtdeveloper&style=flat&color=brightgreen"> •    -
+  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=smtdeveloper&style=flat&color=brightgreen"> •    -
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/smtdeveloper?label=Followers&style=social"> •   -
   <img src="https://img.shields.io/github/stars/smtdeveloper?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
