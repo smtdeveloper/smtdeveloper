@@ -5,7 +5,6 @@
 
 ![Adsız tasarım (2)](https://user-images.githubusercontent.com/74311713/216057508-04ca55ba-6f88-4bd3-804d-4e4e83d76035.png)
 
-
 <p align="center">
 
 
