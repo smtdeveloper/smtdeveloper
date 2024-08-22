@@ -18,7 +18,8 @@
 <hr>
 
 ## About Me
-Hi, I'm Samet Akca. I graduated from the Computer Programming department at Adnan Menderes University. Through the DGS (Vertical Transfer Exam), I transitioned to the Management Information Systems department at Anadolu University's Open Education Faculty. During my university years, I had the opportunity to develop myself by participating in various projects. I gained experience in the private sector as a Full Stack and Backend Developer, and in this process, I acquired in-depth expertise in C#, .NET, MVC, REST and Web Development. Software development initially caught my interest as a hobby, but over time, it became a great passion and my profession. I work with great enthusiasm and continually strive to improve myself by learning new technologies.
+Ben Samet Akca, Adnan Menderes Üniversitesi Bilgisayar Programcılığı bölümünden mezun olduktan sonra Anadolu Üniversitesi Açıköğretim Fakültesi'nde Yönetim Bilişim Sistemleri bölümüne geçiş yaptım. Kariyerim boyunca, İzmir İnovasyon ve Teknoloji firmasında, özellikle Bizİzmir gibi büyük ölçekli projelerde backend geliştirici olarak görev aldım ve İzmir Büyükşehir Belediyesi’nin stratejik projelerinde teknik altyapının oluşturulmasına katkı sağladım. 
+T-HOS'ta ise MVC projelerinde full stack geliştirici olarak çalıştım. Üniversite yıllarımda, freelancer olarak çeşitli web siteleri geliştirdim ve Startup işletme Homfoodie'de yarı zamanlı olarak C# ve Angular teknolojilerinde görev aldım ve katkıda bulundum. Şu anda, küçük bir ekip ile yemek israfını önlemeyi ve karbon ayak izini azaltmayı amaçlayan bir uygulama geliştiriyoruz. C# CQRS mimarisi ile RESTful Web API ve Entity Framework gibi teknolojileri, SOLID prensipleri kullanarak geliştiriyoruz. Gelişen teknoloji dünyasını yakından takip ediyor ve yenilikçi çözümler sunmayı ve projelere değer katmayı hedefliyorum.
 
 ## Technologies and Tools
 <p align="center">
