@@ -61,6 +61,7 @@ I am Samet Akça. After graduating from the Computer Programming Department at A
 </p>
 
 ## Contact Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bensametakca">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
