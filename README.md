@@ -22,6 +22,8 @@
 ## About Me
 I am Samet Akça. After graduating from the Computer Programming Department at Adnan Menderes University, I transitioned to the Management Information Systems program at Anadolu University Open Education Faculty. Throughout my career, I have worked as a backend developer at İzmir Innovation and Technology, where I contributed to the technical infrastructure of strategic projects for İzmir Metropolitan Municipality, particularly large-scale projects like Bizİzmir. At T-HOS, I worked as a full-stack developer on MVC projects. During my university years, I developed various websites as a freelancer and contributed to C# and Angular technologies at the startup Homfoodie as a part-time employee. Currently, I am developing an application with a small team aimed at reducing food waste and minimizing the carbon footprint. We are utilizing C# CQRS architecture, RESTful Web API, and technologies like Entity Framework, while adhering to SOLID principles. I closely follow the evolving world of technology and aim to offer innovative solutions and add value to projects.
 
+
+
 ## Technologies and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java">
