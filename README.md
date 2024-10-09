@@ -32,8 +32,6 @@ T-HOS'ta ise MVC projelerinde full stack geliştirici olarak çalıştım. Üniv
 <p align="center">
  
   <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp">
- 
-  <img src="https://img.shields.io/badge/-.NET%20MVC-black?style=flat-square&logo=dotnet">
   <img src="https://img.shields.io/badge/-.NET%20Core-black?style=flat-square&logo=dotnet">
   <img src="https://img.shields.io/badge/-RESTful%20Web%20API-black?style=flat-square&logo=web">
   <img src="https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger">
