@@ -68,7 +68,7 @@ I love building **scalable APIs, cloud-ready apps, and modern web frontends**.
 
 ## 🚀 Featured Projects
 
-### 🔹 [DevQBank](https://github.com/smtdeveloper/devqbank) – Open Source Interview Question Bank  
+### 🔹 [DevQBank]([https://github.com/smtdeveloper/devqbank](https://github.com/orgs/DevQBank/repositories)) – Open Source Interview Question Bank  
 
 🚀 **DevQBank** is an **open-source platform** we are developing together with my friend **Berk**.  
 Our goal: to help developers **prepare for software interviews** with a rich question bank, while providing companies with a **practical way to evaluate candidates**.  
