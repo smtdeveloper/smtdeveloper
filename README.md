@@ -1,14 +1,15 @@
-
-
 <h1 align="center">Hi, I'm Samet AKCA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h3 align="center">🚀 Full Stack Developer | React & .NET Core | API & Cloud Enthusiast | Tech Content Creator</h3>
+
 <p align="center">
   <a href="https://github.com/smtdeveloper">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;My+nickname+is+SMTcoder;I+Am+Backend+Developer+:);&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;Full+Stack+Developer;React+%26+.NET+Core;API+%7C+Cloud+%7C+Clean+Architecture;&center=true&width=500&height=50">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74311713/216057508-04ca55ba-6f88-4bd3-804d-4e4e83d76035.png" alt="Profile Banner" width="600">
+  <img src="https://user-images.githubusercontent.com/74311713/216057508-04ca55ba-6f88-4bd3-804d-4e4e83d76035.png" alt="Profile Banner" width="700">
 </p>
 
 <p align="center">
@@ -17,60 +18,83 @@
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/smtdeveloper?label=Stars" alt="Total Stars">
 </p>
 
-<hr>
+---
 
-## About Me
-Software Developer with professional experience across freelance, startup, and corporate environments since
-2021. Skilled in ASP.NET Core, C#, and REST API development, with hands-on expertise in PostgreSQL,
-SQL Server, and MongoDB. Experienced in applying Clean Architecture, CQRS, and SOLID principles
-to deliver scalable and maintainable solutions. Adaptable to diverse teams with strong problem-solving,
-decision-making, and communication skills.
+## 👨‍💻 About Me
+I am a **Full Stack Developer** with experience across **freelance, startup, and corporate projects** since 2021.  
+I love building **scalable APIs, cloud-ready apps, and modern web frontends**.  
 
+🔹 Skilled in **.NET Core (C#)**, **React + TypeScript**, **REST APIs**  
+🔹 Database expertise: **PostgreSQL, SQL Server, MongoDB, Firebase**  
+🔹 Architectures: **Clean Architecture, CQRS, SOLID, N-Layer**  
+🔹 DevOps: **Docker, GitHub Actions, CI/CD, Jenkins**  
+🔹 Strong in **problem-solving, communication, and teamwork**  
 
+---
 
+## 🛠️ Tech Stack
 
-## Technologies and Tools
 <p align="center">
- 
-  <img src="https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp">
-  <img src="https://img.shields.io/badge/-.NET%20Core-black?style=flat-square&logo=dotnet">
-  <img src="https://img.shields.io/badge/-RESTful%20Web%20API-black?style=flat-square&logo=web">
-  <img src="https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger">
-  <img src="https://img.shields.io/badge/-Entity%20Framework-black?style=flat-square&logo=nuget">
-  <img src="https://img.shields.io/badge/-LINQ-black?style=flat-square&logo=linq">
-  <img src="https://img.shields.io/badge/-ORM-black?style=flat-square&logo=orm">
-  <img src="https://img.shields.io/badge/-FluentValidation-black?style=flat-square&logo=validation">
-  <img src="https://img.shields.io/badge/-Unit%20Testing-black?style=flat-square&logo=testing">
-  <img src="https://img.shields.io/badge/-Autofac-black?style=flat-square&logo=autofac">
-  <img src="https://img.shields.io/badge/-Migration-black?style=flat-square&logo=migration">
-  <img src="https://img.shields.io/badge/-AutoMapper-black?style=flat-square&logo=automapper">
-  <img src="https://img.shields.io/badge/-Middleware-black?style=flat-square&logo=middleware">
-  <img src="https://img.shields.io/badge/-Dependency%20Injection-black?style=flat-square&logo=injection">
-  <img src="https://img.shields.io/badge/-Serilog-black?style=flat-square&logo=serilog">
-  <img src="https://img.shields.io/badge/-NLog-black?style=flat-square&logo=nlog">
-  <img src="https://img.shields.io/badge/-AJAX-black?style=flat-square&logo=ajax">
-  <img src="https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery">
-  <img src="https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jwt">
-  <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap">
-  <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript">
-  <img src="https://img.shields.io/badge/-OOP-black?style=flat-square&logo=oop">
-  <img src="https://img.shields.io/badge/-CQRS-black?style=flat-square&logo=cqrs">
-  <img src="https://img.shields.io/badge/-MVC-black?style=flat-square&logo=mvc">
-  <img src="https://img.shields.io/badge/-SOLID-black?style=flat-square&logo=solid">
-  <img src="https://img.shields.io/badge/-Layered%20Architecture-black?style=flat-square&logo=architecture">
-  <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-black?style=flat-square&logo=microsoft-sql-server">
-  <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
-  <img src="https://img.shields.io/badge/-Oracle%20PL%2FSQL-black?style=flat-square&logo=oracle">
-  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker">
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white">
+  <img src="https://img.shields.io/badge/CQRS-000?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/SOLID_Principles-000?style=for-the-badge&logoColor=white">
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+
 </p>
 
-## Contact Me
+---
 
+## 🚀 Featured Projects
+
+- **Life Xp (C# + React)** → Gamification app for real-life tasks  
+  🔹 Backend: .NET 9, EF Core, CQRS, JWT, Serilog, Docker  
+  🔹 Frontend: React + TypeScript  
+
+- **CardManagement API** → .NET 8 Web API with **CQRS + JWT + FluentValidation**  
+
+- **ATS CV Creator (React + Gemini AI)** → Open-source ATS-friendly CV builder with **AI-powered optimization**  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&theme=radical" height="170">
+</p>
+
+---
+
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/bensametakca">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bensametakca@gmail.com">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/>
+  </a>
+  <a href="https://dijital.link/smtcoder">
+    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio"/>
   </a>
 </p>
