@@ -68,6 +68,63 @@ I love building **scalable APIs, cloud-ready apps, and modern web frontends**.
 
 ## 🚀 Featured Projects
 
+### 🔹 [DevQBank](https://github.com/smtdeveloper/devqbank) – Open Source Interview Question Bank  
+
+🚀 **DevQBank** is an **open-source platform** we are developing together with my friend **Berk**.  
+Our goal: to help developers **prepare for software interviews** with a rich question bank, while providing companies with a **practical way to evaluate candidates**.  
+
+**✨ Why DevQBank is different?**  
+- It’s **open source** → anyone can contribute new questions or improve existing ones.  
+- Modern & scalable architecture → designed for **real-world usage** in both learning and hiring processes.  
+- Focused on **developer experience** → clean UI, fast backend, well-documented APIs.  
+
+---
+
+#### 🖥️ Frontend (React + TypeScript + Tailwind + Atomic Design)
+- Built with **React + TypeScript** for type safety and scalability.  
+- **TailwindCSS** for modern UI design.  
+- **Atomic Design** → components are modular, reusable, and easy to maintain.  
+- Developer-friendly: simple setup, hot reload, responsive out of the box.  
+
+---
+
+#### ⚙️ Backend (ASP.NET Core 9, Clean Architecture, CQRS)
+- **.NET 9** with **Clean Architecture** for maintainability.  
+- **CQRS + Mediator** pattern → separation of concerns, testability, scalability.  
+- **FluentValidation, AutoMapper, Global Error Handling** out of the box.  
+- **PostgreSQL** as the main database, optimized with EF Core.  
+- Designed with **enterprise-level standards** (unit tests, CI/CD, Docker).  
+
+---
+
+#### 🗂️ Example Features
+- Categorized interview questions (Frontend, Backend, DevOps, Algorithms, System Design).  
+- Question difficulty levels (Easy / Medium / Hard).  
+- Search & filter system.  
+- Admin panel for adding/editing questions.  
+- API endpoints for community integration.  
+
+---
+
+#### 🌍 Open Source Vision
+We believe **knowledge should be shared**.  
+DevQBank is built to be a **community-driven project**:  
+- Anyone can **fork & contribute**.  
+- Perfect for developers to **practice real-world PRs**.  
+- Potential for companies to integrate into their **interview platforms**.  
+
+---
+
+📌 **Tech Highlights**:  
+`React` · `TypeScript` · `TailwindCSS` · `Atomic Design` ·  
+`.NET 9` · `CQRS` · `Clean Architecture` · `PostgreSQL` ·  
+`Docker` · `CI/CD` · `Open Source`  
+
+---
+
+💡 *DevQBank isn’t just a side project — it’s an **open-source product vision** that blends learning, collaboration, and professional use cases.*
+
+
 - **Life Xp (C# + React)** → Gamification app for real-life tasks  
   🔹 Backend: .NET 9, EF Core, CQRS, JWT, Serilog, Docker  
   🔹 Frontend: React + TypeScript  
