@@ -318,3 +318,5 @@ I am open to selected **part-time, freelance, and product-based software project
 <p align="center">
   <strong>I build software with ownership — from idea to production, from production to real users.</strong>
 </p>
+
+<img width="996" height="1512" alt="smtdeveloper-gitfut" src="https://github.com/user-attachments/assets/39fca8f0-42c6-4dcf-892a-262ff79eeb46" />
