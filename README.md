@@ -1,159 +1,110 @@
-<h1 align="center">Hi, I'm Samet AKCA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><img width="799" height="200" alt="1779628714844" src="https://github.com/user-attachments/assets/053e1160-69da-4b5f-8847-22e1f4854d07" />
-
-
-<h3 align="center">🚀 Full Stack Developer | React & .NET Core | API & Cloud Enthusiast | Tech Content Creator</h3>
+<h1 align="center">
+  Hi, I'm Samet AKCA 👋
+</h1>
 
 <p align="center">
-  <a href="https://github.com/smtdeveloper">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+world;Full+Stack+Developer;React+%26+.NET+Core;API+%7C+Cloud+%7C+Clean+Architecture;&center=true&width=500&height=50">
-  </a>
+  <strong>Full Stack Developer & Team Lead</strong><br/>
+  .NET Core • React • FastAPI • PostgreSQL • React Native • Docker • DevOps
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74311713/216057508-04ca55ba-6f88-4bd3-804d-4e4e83d76035.png" alt="Profile Banner" width="700">
+  <img width="799" height="200" alt="Circudata Banner" src="https://github.com/user-attachments/assets/053e1160-69da-4b5f-8847-22e1f4854d07" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/smtdeveloper">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Team+Lead;React+%26+.NET+Core;FastAPI+%26+Python;React+Native+Mobile+Apps;Docker+%26+DevOps;From+Idea+to+Production;&center=true&width=650&height=50">
+  </a>
 </p>
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=smtdeveloper&style=flat&color=brightgreen"> •
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/smtdeveloper?label=Followers&style=social"> •
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/smtdeveloper?label=Stars" alt="Total Stars">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/smtdeveloper?label=Stars">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a **Full Stack Developer** with experience across **freelance, startup, and corporate projects** since 2021.  
-I love building **scalable APIs, cloud-ready apps, and modern web frontends**.  
 
-🔹 Skilled in **.NET Core (C#)**, **React + TypeScript**, **REST APIs**  
-🔹 Database expertise: **PostgreSQL, SQL Server, MongoDB, Firebase**  
-🔹 Architectures: **Clean Architecture, CQRS, SOLID, N-Layer**  
-🔹 DevOps: **Docker, GitHub Actions, CI/CD, Jenkins**  
-🔹 Strong in **problem-solving, communication, and teamwork**  
+I am **Samet AKCA**, also known as **SMTcoder**.
 
----
+I am a **Full Stack Developer and Team Lead** with hands-on experience in web, mobile, backend, database, DevOps, deployment, and product development processes.
 
-## 🛠️ Tech Stack
+I started coding in **2018** and have been professionally involved in software development since **2021**. During this journey, I have worked on **100+ projects and modules** across freelance, startup, corporate, and product-based environments.
 
-<p align="center">
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white">
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white">
-  <img src="https://img.shields.io/badge/CQRS-000?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/SOLID_Principles-000?style=for-the-badge&logoColor=white">
+Currently, I work at **TAMSData Software Technologies** as a **Full Stack Developer & Team Lead**, where I contribute to the development of **Circudata**, a platform focused on **Digital Product Passport, traceability, sustainability, and compliance solutions**.
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+My work is not limited to writing code. I actively take responsibility in:
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+- Product development from idea to production
+- Frontend and backend architecture
+- API design and implementation
+- Database design and optimization
+- Docker-based deployments
+- Server setup and production operations
+- GitHub Actions and CI/CD processes
+- Technical decision-making
+- Code reviews and pull request management
+- Team coordination and mentoring
+- Managing responsibilities inside a 20+ person software team
 
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-
-</p>
+I also have equity in company projects, which gives me a stronger ownership mindset toward product quality, long-term scalability, and business value.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Do
 
-### 🔹 [DevQBank](https://github.com/orgs/DevQBank/repositories) – Open Source Interview Question Bank  
+```csharp
+public class SametAKCA
+{
+    public string Role => "Full Stack Developer & Team Lead";
 
+    public string[] Backend => new[]
+    {
+        ".NET Core",
+        "C#",
+        "FastAPI",
+        "Python",
+        "REST API",
+        "Clean Architecture",
+        "CQRS",
+        "Entity Framework Core"
+    };
 
-🚀 **DevQBank** is an **open-source platform** we are developing together with my friend **Berk**.  
-Our goal: to help developers **prepare for software interviews** with a rich question bank, while providing companies with a **practical way to evaluate candidates**.  
+    public string[] Frontend => new[]
+    {
+        "React",
+        "Next.js",
+        "TypeScript",
+        "JavaScript",
+        "TailwindCSS",
+        "Bootstrap"
+    };
 
-**✨ Why DevQBank is different?**  
-- It’s **open source** → anyone can contribute new questions or improve existing ones.  
-- Modern & scalable architecture → designed for **real-world usage** in both learning and hiring processes.  
-- Focused on **developer experience** → clean UI, fast backend, well-documented APIs.  
+    public string[] Mobile => new[]
+    {
+        "React Native",
+        "Expo",
+        "Mobile App Development"
+    };
 
----
+    public string[] Database => new[]
+    {
+        "PostgreSQL",
+        "SQL Server",
+        "MongoDB",
+        "Firebase"
+    };
 
-#### 🖥️ Frontend (React + TypeScript + Tailwind + Atomic Design)
-- Built with **React + TypeScript** for type safety and scalability.  
-- **TailwindCSS** for modern UI design.  
-- **Atomic Design** → components are modular, reusable, and easy to maintain.  
-- Developer-friendly: simple setup, hot reload, responsive out of the box.  
+    public string[] DevOps => new[]
+    {
+        "Docker",
+        "GitHub Actions",
+        "CI/CD",
+        "Linux Server Management",
+        "Production Deployment"
+    };
 
----
-
-#### ⚙️ Backend (ASP.NET Core 9, Clean Architecture, CQRS)
-- **.NET 9** with **Clean Architecture** for maintainability.  
-- **CQRS + Mediator** pattern → separation of concerns, testability, scalability.  
-- **FluentValidation, AutoMapper, Global Error Handling** out of the box.  
-- **PostgreSQL** as the main database, optimized with EF Core.  
-- Designed with **enterprise-level standards** (unit tests, CI/CD, Docker).  
-
----
-
-#### 🗂️ Example Features
-- Categorized interview questions (Frontend, Backend, DevOps, Algorithms, System Design).  
-- Question difficulty levels (Easy / Medium / Hard).  
-- Search & filter system.  
-- Admin panel for adding/editing questions.  
-- API endpoints for community integration.  
-
----
-
-#### 🌍 Open Source Vision
-We believe **knowledge should be shared**.  
-DevQBank is built to be a **community-driven project**:  
-- Anyone can **fork & contribute**.  
-- Perfect for developers to **practice real-world PRs**.  
-- Potential for companies to integrate into their **interview platforms**.  
-
----
-
-📌 **Tech Highlights**:  
-`React` · `TypeScript` · `TailwindCSS` · `Atomic Design` ·  
-`.NET 9` · `CQRS` · `Clean Architecture` · `PostgreSQL` ·  
-`Docker` · `CI/CD` · `Open Source`  
-
----
-
-💡 *DevQBank isn’t just a side project — it’s an **open-source product vision** that blends learning, collaboration, and professional use cases.*
-
-
-- **Life Xp (C# + React)** → Gamification app for real-life tasks  
-  🔹 Backend: .NET 9, EF Core, CQRS, JWT, Serilog, Docker  
-  🔹 Frontend: React + TypeScript  
-
-- **CardManagement API** → .NET 8 Web API with **CQRS + JWT + FluentValidation**  
-
-- **ATS CV Creator (React + Gemini AI)** → Open-source ATS-friendly CV builder with **AI-powered optimization**  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=radical" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&theme=radical" height="170">
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/bensametakca">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:bensametakca@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email"/>
-  </a>
-  <a href="https://dijital.link/smtcoder">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="Portfolio"/>
-  </a>
-</p>
+    public string Mindset => "Build products from idea to real users.";
+}
