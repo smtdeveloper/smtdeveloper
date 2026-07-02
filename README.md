@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Samet AKCA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Samet AKCA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><img width="799" height="200" alt="1779628714844" src="https://github.com/user-attachments/assets/053e1160-69da-4b5f-8847-22e1f4854d07" />
+
 
 <h3 align="center">🚀 Full Stack Developer | React & .NET Core | API & Cloud Enthusiast | Tech Content Creator</h3>
 
